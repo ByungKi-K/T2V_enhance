@@ -1,4 +1,5 @@
-attention_*
+attention_grad_weight
+attention_weight*
 outputs
 outputs_*
 token_drop*
