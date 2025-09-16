@@ -5,3 +5,8 @@ token_drop*
 text_success
 grad_vis
 text_success_vis_denoise_step
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
